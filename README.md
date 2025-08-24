@@ -25,3 +25,4 @@ This dashboard visualizes key operational metrics for Apollo Hospital, focusing 
 - Branded UI: Apollo-themed layout with clean visuals and export-ready formatting
 
 ### **6. Screenshot** 
+https://github.com/kaushikmanish34/Apollo-Hospital-Dashboard/blob/main/Apollo%20Hospital.png
