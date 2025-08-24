@@ -26,4 +26,4 @@ This dashboard visualizes key operational metrics for Apollo Hospital, focusing 
 
 ###  Analysis Dashboard
 
-https://github.com/kaushikmanish34/Apollo-Hospital-Dashboard/blob/main/Apollo%20Hospital.png
+![ApolloHospital](https://github.com/kaushikmanish34/Apollo-Hospital-Dashboard/blob/main/Apollo%20Hospital.png)
